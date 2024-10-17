@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Land Parcel Query System</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1>Land Parcel Query System</h1>
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search by owner or location">
+        <button onclick="searchParcels()">Search</button>
+    </div>
+    <table id="parcel-table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Owner</th>
+                <th>Location</th>
+                <th>Area</th>
+                <th>value</th>
+            </tr>
+        </thead>
+        <tbody id="table-body">
+        </tbody>
+    </table>
+    <script src="index.js"></script>
+</body>
+</html>

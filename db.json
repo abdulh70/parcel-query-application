@@ -1,0 +1,22 @@
+{
+    "parcels": [
+      { "id": 1, "owner": "Abdulaziz  Hassan", "location": "Ukunda/85", "area": "3 acres", "value": "1,000,000" },
+      { "id": 2, "owner": "Juma Kongo", "location": "Ukunda/40", "area": "2 acres", "value": "700,000" },
+      { "id": 3, "owner": "Mariam Majaliwa", "location": "Shimoni/30", "area": "20 acress", "value": "20,000,000" },
+      {"id": 4, "owner": "MUMBO JIMMY", "location": "Diani Beach Block/30", "area": "40 acress", "value": "1,000,000"},
+      {"id": 5, "owner": "MWAKA TSUMA ", "location": "Ukunda/535", "area": "65 acress", "value": "2,000,000"},
+      {"id": 6, "owner": "HAMISI SHABANI", "location": "Shimoni/68", "area": "1.5 acress", "value": "11,000,000"},
+      {"id": 7, "owner": "MWASHAME ALII", "location": "Kwale/400", "area": "0.8 acress", "value": "300,000"},
+      {"id": 8, "owner": "MWANAHAMISI OMARI", "location": "Kwale/30", "area": "100 acress", "value": "800,000"},
+      {"id": 9, "owner": "ALI IDDI ", "location": "Shimoni/99", "area": "50 acress", "value": "250,000"},
+      {"id": 10, "owner": "HAMISI ALI ", "location": "Kwale/324", "area": "200 acress", "value": "10,000,000"},
+      {"id": 11, "owner": "ASHA SADIK", "location": "Diani Beach Block/100", "area": "220 acress", "value": "500,000"},
+      {"id": 12, "owner": "MWANAPILI MOHAMED", "location": "Shimoni/130", "area": "0.5 acress", "value": "300,000"},
+      {"id": 13, "owner": "MATANO ALI ", "location": "Diani Beach Block/630", "area": "25 acress", "value": "1,200,000"},
+      {"id": 13, "owner": "MWANASHA HEMED", "location": "Diani Beach Block/838", "area": "50 acress", "value": "1,000,000"},
+      {"id": 14, "owner": "ESTHER NDINDA", "location": "Ukunda/425", "area": "400 acress", "value": "2,000,000"},
+      {"id": 15, "owner": "SUDI BAKARI", "location": "Ukunda/777", "area": "75 acress", "value": "12,000,000"},
+      {"id": 16, "owner": "MAENDELEO OMAR", "location": "Kwale/333", "area": "14 acress", "value": "6,000,000"},
+      {"id": 17, "owner": "RASHIDI HAMISI ", "location": "Kwale/656", "area": "43 acress", "value": "15,000,000"}
+    ]
+  }
